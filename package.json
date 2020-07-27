@@ -6,6 +6,9 @@
     "react-scripts": "0.8.5"
   },
   "dependencies": {
+    "@giphy/js-fetch-api": "^1.6.0",
+    "@giphy/react-components": "^1.5.2",
+    "axios": "^0.19.2",
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
   },
